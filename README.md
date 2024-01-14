@@ -23,4 +23,3 @@ https://www.reddit.com/r/real_China_irl/comments/zan4r7/%E5%9B%BD%E5%86%85%E4%BD
 
 https://www.freedidi.com/11195.html
 
-[零度解说博客](https://www.freedidi.com/)
