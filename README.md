@@ -1,8 +1,14 @@
 # Ai01
 stdudy  ai
 
+微信视频号： 李一舟， 提示词工程还行，[课程大纲](https://shangke.app.cloudos.com/courses/65437361924cec2fbe660239)
 
-手机root   
+token, https://www.51cto.com/article/768678.html
+
+
+
+
+## 手机root   
 
 https://www.miui.com/unlock/index.html
 
@@ -23,3 +29,9 @@ https://www.reddit.com/r/real_China_irl/comments/zan4r7/%E5%9B%BD%E5%86%85%E4%BD
 
 https://www.freedidi.com/11195.html
 
+
+## 2024年AI 
+
+趋势： 所有的APP 都值得用 大模型来重做一遍。 
+
+三个关键词： 知识库， 多模态，Agent
