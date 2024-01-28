@@ -21,7 +21,16 @@
 
 2. https://luminous-mapusaurus-1aa.notion.site/Mobile-Aloha-7427f27eb6d1495aa8d07e4be2aa8471
 
+## IP地址
 
+https://ipinfo.io/
+
+
+比特浏览器
+
+開始流覽
+
+設置完成後，你就可以開始使用比特指紋流覽器進行網路流覽了。這時候你會發現，無論你訪問哪個網站，都無法獲取到你的真實IP地址和設備資訊。這就意味著，你的網路行為無法被追蹤
 
 
 

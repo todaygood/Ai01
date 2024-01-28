@@ -15,6 +15,19 @@
 11. [零度解说博客](https://www.freedidi.com/)
 12. [林杰学AI](https://www.bilibili.com/video/BV1ue411q7M5?vd_source=c633af6ff074e22fb4f8246dce394569), [林杰学AI youtube](https://www.youtube.com/@ouyanglinjie0712)
 13. [刀姐](https://www.youtube.com/@DAOJIE)
+14. [LittleBoatTan小船](https://www.youtube.com/@LittleBoatTan)
+
+
+## 国内微信视频号 
+
+1. 迪哥AI
+2. 李一舟， 提示词工程还行，[课程大纲](https://shangke.app.cloudos.com/courses/65437361924cec2fbe660239)
+
+token, https://www.51cto.com/article/768678.html
+
+
+
+
 
 ## 变现途径
 

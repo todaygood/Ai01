@@ -1,9 +1,8 @@
 # Ai01
 stdudy  ai
 
-微信视频号： 李一舟， 提示词工程还行，[课程大纲](https://shangke.app.cloudos.com/courses/65437361924cec2fbe660239)
+agent不需要人再去写提示词。
 
-token, https://www.51cto.com/article/768678.html
 
 
 
