@@ -2,6 +2,8 @@
 
 https://docs.daocloud.io/blogs/230808-k8sgpt
 
+[k8sgpt文档](https://docs.k8sgpt.ai/)
+
 
 ```bash
 [root@pcentos ~]# source  /usr/local/bin/set-proxy.sh 

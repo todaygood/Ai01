@@ -16,4 +16,17 @@
 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
 
 
+显卡最低 3060 ;4070 
 
+ai 伴侣
+
+AI赚大钱的路子 还没有出来； 一定不是现在你看到的一些路径； 
+
+本地部署； 
+
+
+意料之外，情理之中。 
+
+
+docker.io/busybox:1.36
+docker.io/malexer/twemproxy:0.5.0
