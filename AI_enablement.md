@@ -16,7 +16,7 @@
 12. [林杰学AI](https://www.bilibili.com/video/BV1ue411q7M5?vd_source=c633af6ff074e22fb4f8246dce394569), [林杰学AI youtube](https://www.youtube.com/@ouyanglinjie0712)
 13. [刀姐](https://www.youtube.com/@DAOJIE)
 14. [LittleBoatTan小船](https://www.youtube.com/@LittleBoatTan)
-
+15. https://www.youtube.com/@QinLin555
 
 ## 国内微信视频号 
 
