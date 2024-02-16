@@ -34,3 +34,9 @@ https://www.freedidi.com/11195.html
 趋势： 所有的APP 都值得用 大模型来重做一遍。 
 
 三个关键词： 知识库， 多模态，Agent
+
+
+## openAI Sora
+
+AIGC新里程碑！OpenAI官宣最强视频生成模型Sora，能理解和模拟现实世界，GPT5前瞻
+2月16日，OpenAI发布视频生成模型Sora，能理解和模拟运动中的物理世界
