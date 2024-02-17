@@ -40,3 +40,6 @@ https://www.freedidi.com/11195.html
 
 AIGC新里程碑！OpenAI官宣最强视频生成模型Sora，能理解和模拟现实世界，GPT5前瞻
 2月16日，OpenAI发布视频生成模型Sora，能理解和模拟运动中的物理世界
+
+
+[Sora涌现：OpenAI又一次暴力美学的胜利](https://mifengcha.com/news/65d08dd7e1a1b54b006ef0c9)
