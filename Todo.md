@@ -27,6 +27,7 @@ AI赚大钱的路子 还没有出来； 一定不是现在你看到的一些路�
 
 意料之外，情理之中。 
 
+ 
+## 如何使用ai绘画
 
-docker.io/busybox:1.36
-docker.io/malexer/twemproxy:0.5.0
+https://uwmqoxl2jb0.feishu.cn/docx/CRJkdkx3UouvIAxcw6scZrcanVh
