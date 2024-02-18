@@ -12,7 +12,7 @@ PFLOPS：petaFLOPS，一千万亿次浮点运算/秒，1PFLOPS=1000TFLOPS
 
 EFLOPS：exaFLOPS），一百亿亿次浮点运算/秒，1EFLOPS=1000PFLOPS
 
-## 对比
+ 
 
 ### NVlink  vs HCCS 
 
