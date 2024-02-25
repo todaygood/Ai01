@@ -116,7 +116,7 @@ ChatGPT：ChatGPT则专注于对话和交互式对话。它经过特定的训练
 原文链接：https://blog.csdn.net/weixin_46880696/article/details/134209440
 
 
-https://github.com/gngpp/ninja
+
 
 
 https://hong.greatdk.com/
