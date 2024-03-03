@@ -1,10 +1,6 @@
 # Ai01
-stdudy  ai
 
-agent不需要人再去写提示词。
-
-
-
+[近期AI领域事件短评（2024-2-27）](https://mp.weixin.qq.com/s/P33pj7ub2tVfwKHTufDZmw)
 
 
 ## 手机root   

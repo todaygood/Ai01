@@ -85,3 +85,5 @@ PyTorch 和 TensorFlow 的相似之处在于，两者的核心组件都是张量
 
 https://pytorch.org/get-started/locally/
 
+https://github.com/INTERMT/Awesome-PyTorch-Chinese
+

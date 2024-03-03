@@ -12,9 +12,19 @@ PFLOPS：petaFLOPS，一千万亿次浮点运算/秒，1PFLOPS=1000TFLOPS
 
 EFLOPS：exaFLOPS），一百亿亿次浮点运算/秒，1EFLOPS=1000PFLOPS
 
- 
+
+## A100，H100
+
+todo 待学习
+
+https://www.nvidia.com/en-eu/data-center/h100/
+
+https://www.nvidia.com/en-eu/data-center/technologies/hopper-architecture/
 
 ### NVlink  vs HCCS 
+
+todo 待学习
+https://www.nvidia.com/en-eu/data-center/nvlink/
 
 ###  CUDA vs CANN 
 
