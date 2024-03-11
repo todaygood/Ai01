@@ -18,6 +18,8 @@
 
 https://zhuanlan.zhihu.com/p/628148081
 
+《向量数据库指南》——2023年7月国产向量数据库排行榜Top3：Milvus，Milvus Cloud，Tencent Cloud VectorDB
+https://cloud.tencent.com/developer/article/2306984
 
 
 ## Milvus 

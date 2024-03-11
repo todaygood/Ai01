@@ -87,3 +87,18 @@ https://pytorch.org/get-started/locally/
 
 https://github.com/INTERMT/Awesome-PyTorch-Chinese
 
+
+
+## EXECUTORCH
+
+ExecuTorch 地址：https://github.com/pytorch/executorch
+
+学习文档：https://pytorch.org/executorch/stable/index.html
+
+随着 ExecuTorch 的开源，预示着 AI 应用程序在设备上本地运行、而需连接到服务器或云成为可能。我们可以将 ExecuTorch 理解成一个 PyTorch 平台，其能提供基础设施来运行 PyTorch 程序，从 AR/VR 可穿戴设备到标准的 iOS 和 Android 设备的移动部署。
+
+ExecuTorch 最大优势是可移植性，能够在移动和嵌入式设备上运行。不仅如此，ExecuTorch 还可以提高开发人员的工作效率。
+
+据了解，Meta 已经验证了这项技术，并将其用于最新一代的雷朋智能眼镜，而这款眼镜也是 Meta 最近发布的 Quest 3 VR 头显的一部分。Meta 表示，作为开源 PyTorch 项目的一部分，他们旨在进一步推动该技术的研究，从而迈入在设备上实现 AI 推理的新时代。
+
+
