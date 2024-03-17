@@ -13,9 +13,12 @@ PFLOPS：petaFLOPS，一千万亿次浮点运算/秒，1PFLOPS=1000TFLOPS
 EFLOPS：exaFLOPS），一百亿亿次浮点运算/秒，1EFLOPS=1000PFLOPS
 
 
+
 ## A100，H100
 
-todo 待学习
+todo 待学习 
+
+[【GPU】完整的软件栈](https://mp.weixin.qq.com/s/W7wFK9S0pnEBs7a7TKMTyQ),内容来自：bilibili-龚大的杂货铺的学习笔记
 
 https://www.nvidia.com/en-eu/data-center/h100/
 
@@ -30,3 +33,12 @@ https://www.nvidia.com/en-eu/data-center/nvlink/
 
 编程框架 
 
+[247.2k star! 超强大的私有化ChatGPT，支持图像识别/文生图/语音输入/文本朗读，个人电脑可运行](https://mp.weixin.qq.com/s/ZzYc7hF68rRYa5tfh4y3mg)
+
+[英伟达GTC大会——与AI基础设施及中国相关的主题](https://mp.weixin.qq.com/s/tUz3bA-i0FFL1fFIaq_Kcw)
+
+[Nvidia芯片路线图解析：机遇与风险](https://mp.weixin.qq.com/s/oXluH6kXkV75DNPhkrg-tQ)
+
+[HPC与AI：完美融合](https://mp.weixin.qq.com/s/UNJoLibSnk_ReOBLFHN0JQ)
+
+[AI基础设施规划：新的路径](https://mp.weixin.qq.com/s/T7FjobpVEFHBhZEFRxBowA)
