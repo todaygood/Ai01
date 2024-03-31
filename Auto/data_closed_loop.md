@@ -15,6 +15,14 @@
 
 [技术精讲 | 如何打造自动驾驶的数据闭环？（下）](https://mp.weixin.qq.com/s/TPjK8GxbMCaZtPRk1OKfDA)
 
+[数据闭环研究：自动驾驶3.0阶段，做好端到端，赢取数据掌控权](https://mp.weixin.qq.com/s/aGMMxbKjMtbuL3f7smJWZA)
+
+[目前各家做的自动驾驶数据闭环平台真的闭环了吗？](https://www.zhihu.com/question/552466858)
+
+[万字读懂自动驾驶数据闭环](https://www.eet-china.com/mp/a234849.html)
+
+[自动驾驶开发者说|技术栈|入门感知模块需要储备哪些知识？](https://zhuanlan.zhihu.com/p/529824597)
+
 
 
 ## 百度发布自动驾驶数据闭环合规方案，规避数据滥用、泄露等问题
@@ -203,3 +211,4 @@ https://www.nullmax.ai/about
 
 ## 觉非科技
 
+http://www.juefx.com/product.html
