@@ -1,3 +1,7 @@
+# Open source LLM 
+
+[15 Best Open-Source LLMs of 2024 You Need to Know](https://www.simform.com/blog/open-source-llm/)
+
 本文作者盘点了一些组织或者个人开源的模型。
 
 ChatGPT爆火出圈，国内很多高校、研究机构和企业都发出类似ChatGPT的发布计划。ChatGPT没有开源，复现难度极大，即使到现在GPT3的完全能力也没有任何一个单位或者企业进行了复现。刚刚，OpenAI又官宣发布了图文多模态的GPT4模型，能力相对ChatGPT又是大幅提升，似乎闻到了以通用人工智能主导的第四次工业革命的味道。
