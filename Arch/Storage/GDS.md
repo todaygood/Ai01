@@ -1,8 +1,4 @@
-平安员工ID： E000  1121 8238 
-UM号：hujun469 
 
-redhat官网，hujun469@pingan.com.cn 
-东方财富： 5406 4031 3987， 713796
 
 
 https://docs.nvidia.com/gpudirect-storage/getting-started/index.html
@@ -10,11 +6,11 @@ https://docs.nvidia.com/gpudirect-storage/getting-started/index.html
 
 https://juicefs.com/en/
 
-# 平安 HPC集群
+# HPC集群
 
 RoceIP: 使用whereabouts开源技术，完成集群内Roce网络IP分配， 防止IP重复
 
-Pod多网卡： vpc-cni+sriov
+Pod多网卡： cni+sriov
 
 单块Nvme设备理论性能2GB/s, 每台使用2块25GB网卡做主主胚子，tcp理论带宽50Gbps
 默认使用TCP协议挂载； 
@@ -30,7 +26,7 @@ EHPC > EHPc in serverless (平替ECS)
 EHPC in serverless : 用于推理资源池；
 
 计算：EHPC产品，训练数据同步；
-存储：平安CPFS 并行文件系统，GDS特性
+存储：CPFS 并行文件系统，GDS特性
 网络: Roce 高性能网络
 
 
