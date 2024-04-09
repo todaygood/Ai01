@@ -1,10 +1,3 @@
-平安员工ID： E000  1121 8238 
-UM号：hujun469 
-
-redhat官网，hujun469@pingan.com.cn 
-东方财富： 5406 4031 3987， 713796
-
-
 
 # nvidia GDS 
 
