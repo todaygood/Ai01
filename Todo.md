@@ -8,7 +8,7 @@ iii# Todo
 3. purelb https://tinychen.com/20220524-k8s-08-loadbalancer-purelb/
 
 4.  ChatGPT-01.docx  文档，在公司那台windows电脑里面，把内容弄回来。
-5.  
+5. iiiii 
 
 ## 我的chatgpt api key 
 
